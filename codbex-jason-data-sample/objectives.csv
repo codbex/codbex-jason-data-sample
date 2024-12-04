@@ -1,0 +1,9 @@
+OBJECTIVE_ID,OBJECTIVE_NAME,OBJECTIVE_DESCRIPTION,OBJECTIVE_PROJECT
+1,Complete Core Features,Complete the development of all core features for Project Alpha including user authentication and dashboard,1
+2,Finish Design and Prototyping,Finalize all design elements and create prototypes for Project Alpha to facilitate testing,1
+3,User Testing and Feedback,Conduct user testing sessions to collect feedback for Project Alpha and iterate on the product,1
+4,Finalize Deployment,Ensure all systems are ready for deployment and handle the final testing and setup for Project Alpha,1
+5,Complete Beta Version Features,Implement and complete all features required for the beta version of Project Beta,2
+6,Finish Initial Prototyping,Create and finalize the first prototype for Project Beta,2
+7,Conduct Feature Testing,Test the initial features and gather feedback from internal stakeholders for Project Beta,2
+8,Deploy Beta Version,Finalize and deploy the beta version of Project Beta to production,2
