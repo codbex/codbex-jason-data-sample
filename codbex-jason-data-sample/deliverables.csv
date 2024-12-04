@@ -1,0 +1,5 @@
+DELIVERABLE_ID,DELIVERABLE_NAME,DELIVERABLE_DESCRIPTION,DELIVERABLE_PROJECT,DELIVERABLE_COSTESTIMATION,DELIVERABLE_ACTUALCOST,DELIVERABLE_STATUS
+1,Deliverable A1,First deliverable of Project Alpha,1,1000,950,1
+2,Deliverable A2,Second deliverable of Project Alpha,1,1500,1400,2
+3,Deliverable B1,First deliverable of Project Beta,2,2000,1900,3
+4,Deliverable B2,Second deliverable of Project Beta,2,2500,2400,4
