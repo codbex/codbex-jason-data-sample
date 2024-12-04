@@ -21,6 +21,39 @@
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
+        },
+        {
+            "table": "CODBEX_MILESTONEDELIVERABLE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/milestonedeliverable.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_MILESTONE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/milestones.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_TASK",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/tasks.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
         }
     ]
 }
