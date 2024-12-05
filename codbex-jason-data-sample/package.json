@@ -1,6 +1,6 @@
 {
   "name": "@codbex/codbex-hera-data-sample",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "repository": {
     "url": "https://github.com/codbex/codbex-hera-data-sample.git",
     "type": "git"
