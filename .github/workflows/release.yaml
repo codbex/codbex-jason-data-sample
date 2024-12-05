@@ -20,7 +20,7 @@ jobs:
       release-content: |
         ## codbex-jason-data-sample - ${{ inputs.release-version }}
         
-        Data Sample Module
+        Hera Data Sample Management Module
         
         ## Installation
         
