@@ -1,0 +1,9 @@
+MILESTONEDELIVERABLE_ID,MILESTONEDELIVERABLE_MILESTONE,MILESTONEDELIVERABLE_DESCRIPTION,MILESTONEDELIVERABLE_STARTDATE,MILESTONEDELIVERABLE_ENDDATE
+1,1,Complete initial design documents for Project Alpha,2024-12-04,2024-12-31
+2,1,Develop core functionalities for Project Alpha,2024-12-04,2025-01-30
+3,2,Conduct first round of user testing for Project Alpha,2024-12-04,2024-02-29
+4,2,Prepare deployment for Project Alpha,2024-12-04,2024-03-31
+5,3,Set up development environment for Project Beta,2024-03-04,2024-03-31
+6,3,Implement beta version features for Project Beta,2024-12-04,2024-05-31
+7,4,Conduct integration tests for Project Beta,2024-12-04,2024-05-25
+8,4,Finalize and release Project Beta,2024-12-04,2025-12-31

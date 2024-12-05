@@ -1,0 +1,17 @@
+COST_ID,COST_NAME,COST_PROJECT,COST_ACTUALCOST,COST_COSTCATEGORY,COST_DESCRIPTION,COST_COMMITMENTDATE,COST_APPROVAL
+1,Development Labor,1,20000.00,1,Development team labor costs for core functionality,2024-12-01,TRUE
+2,Design Materials,1,5000.00,2,Materials for design and prototyping,2024-12-02,TRUE
+3,Server Equipment,1,8000.00,3,Servers and networking equipment for deployment,2024-12-05,FALSE
+4,Travel for Testing,1,3000.00,4,Travel expenses for team to conduct user testing,2024-12-10,TRUE
+5,Subcontracted Testing,1,6000.00,5,Outsource testing services for Project Alpha,2024-12-12,FALSE
+6,Office Overhead,1,2000.00,6,General overhead costs for office use during project,2024-12-15,TRUE
+7,Contingency Fund,1,1000.00,7,Reserved funds for unexpected costs,2024-12-20,TRUE
+8,Permit Fees,1,1500.00,8,Regulatory permits and fees for deployment,2024-12-25,FALSE
+9,Development Labor,2,18000.00,1,Development team labor costs for core functionality,2024-03-01,TRUE
+10,Design Materials,2,4000.00,2,Materials for design and prototyping for Project Beta,2024-03-05,TRUE
+11,Server Equipment,2,7000.00,3,Servers and networking equipment for deployment,2024-03-08,FALSE
+12,Travel for Testing,2,2500.00,4,Travel expenses for team to conduct user testing,2024-03-12,TRUE
+13,Subcontracted Testing,2,5500.00,5,Outsource testing services for Project Beta,2024-03-15,FALSE
+14,Office Overhead,2,1800.00,6,General overhead costs for office use during Project Beta,2024-03-20,TRUE
+15,Contingency Fund,2,1200.00,7,Reserved funds for unexpected costs for Project Beta,2024-03-25,TRUE
+16,Permit Fees,2,1300.00,8,Regulatory permits and fees for deployment,2024-03-30,FALSE

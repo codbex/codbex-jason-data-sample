@@ -1,0 +1,147 @@
+{
+    "files": [
+        {
+            "table": "CODBEX_PROJECT",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/projects.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_DELIVERABLE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/deliverables.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_MILESTONEDELIVERABLE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/milestonedeliverable.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_MILESTONE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/milestones.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_TASK",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/tasks.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_OBJECTIVE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/objectives.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_COST",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/costs.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_BUDGET",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/budgets.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_CONSTRAIN",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/constraints.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_STAKEHOLDER",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/stakeholders.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_EXPENSE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/expenses.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_RESOURCE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/resources.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_TEAMMEMBER",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/teammembers.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        }
+    ]
+}
