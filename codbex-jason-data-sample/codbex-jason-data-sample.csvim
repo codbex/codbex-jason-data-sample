@@ -1,6 +1,17 @@
 {
     "files": [
         {
+          "table": "CODBEX_NUMBER",
+          "schema": "PUBLIC",
+          "file": "codbex-jason-data-sample/numbers.csv",
+          "header": true,
+          "useHeaderNames": true,
+          "delimField": ",",
+          "delimEnclosing": "\"",
+          "distinguishEmptyFromNull": true,
+          "version": "1.0"
+        },
+        {
             "table": "CODBEX_PROJECT",
             "schema": "PUBLIC",
             "file": "/codbex-jason-data-sample/projects.csv",
