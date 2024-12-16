@@ -144,7 +144,7 @@
             "version": ""
         },
         {
-            "table": "CODBEX_EXPENSE",
+            "table": "CODBEX_EMPLOYEE",
             "schema": "PUBLIC",
             "file": "/codbex-jason-data-sample/employees.csv",
             "header": true,
