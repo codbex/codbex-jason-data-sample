@@ -142,6 +142,17 @@
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
+        },
+        {
+            "table": "CODBEX_EXPENSE",
+            "schema": "PUBLIC",
+            "file": "/codbex-jason-data-sample/employees.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ",",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
         }
     ]
 }
