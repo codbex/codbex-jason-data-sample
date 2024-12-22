@@ -1,4 +1,4 @@
-MILESTONE_ID,MILESTONE_NAME,MILESTONE_DESCRIPTION,MILESTONE_DATE
+MILESTONEPERIOD_ID,MILESTONEPERIOD_NAME,MILESTONE_DESCRIPTION,MILESTONE_DATE
 1,Project Kickoff,Initial team meeting to discuss project scope, objectives, and timelines,2024-12-31
 2,Requirements Gathering,Complete stakeholder interviews and finalize business requirements,2025-01-15
 3,Prototype Development,Develop and present the first prototype for internal review and feedback,2025-02-01
